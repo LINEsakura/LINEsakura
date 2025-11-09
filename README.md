@@ -1,25 +1,56 @@
-# 👋 Hi, I'm **Ricardo (Shuoyu Zhang)**  
+# **Ricardo Zhang(Shuoyu Zhang)**  
 
-🎓 UG4 BSc (Hons) Informatics @ **University of Edinburgh**  
-💡 Focus: Multi-Agent Reinforcement Learning · LLM-Agent Systems · ML Infrastructure · Edge/TinyML  
-📍 Edinburgh, UK | ✉️ ricardoshuoyu@gmail.com | [GitHub](https://github.com/LINEsakura) | [LinkedIn](https://www.linkedin.com/in/shuoyu-zhang-ricardo)
-
----
-
-## 🧠 Research Vision
-> I design **intelligent and autonomous systems** that integrate reinforcement learning, reasoning, and real-world execution — bridging theoretical AI and deployable ML systems.
-
-**Research Interests:**
-- **Multi-Agent Reinforcement Learning (MARL)** — hierarchical control, curriculum learning, memory-augmented agents  
-- **LLM-Agent Systems** — tool-use, multi-agent communication, planning via natural language  
-- **ML Infrastructure & Evaluation** — reproducible experiment pipelines, scalable environment design  
-- **Edge/TinyML** — efficient learning on resource-constrained devices  
-- **Scientific Software Engineering** — automation for physics and quantum-lab experiments  
+🎓 *UG4 Artificial Intelligence & Computer Science @ University of Edinburgh*  
+🧪 *Ex-Intern @ Tencent Quantum Lab / Ex-Research Assistant @ IADS-UoE*  
+💡 *Focus: Intelligent Systems · Multi-Agent RL · ML Infrastructure · Scientific/Quantum Lab Software*  
+📍 Edinburgh, UK | ✉️ ricardoshuoyu@gmail.com  
 
 ---
 
-## 🎓 Honours Project — *Multi-Agent RL Environment for LLM-Agent Simulation*
-**Supervisor:** Dr. Wenda Li, University of Edinburgh (2025–26)  
+## Publications (Papers)
+> *Preprints, reports, and technical notes.*
+
+| Year | Title | Venue / Type | Link |
+|------|-------|---------------|------|
+| 2025 | *Multi-Agent Reinforcement Learning Environment Design for LLM-Agent Simulation* | UG4 Thesis (in progress) | – |
+| 2024 | *HAR on Edge Devices: Accuracy–Latency–Energy Trade-off* | Course Report | [PDF]() |
+| 2024 | *Latency vs Distance in Edge-AI Pipelines* | Short Technical Note | [PDF]() |
+| — | *(Future publications to be added)* | – | – |
+
+---
+
+## Patents
+- **2025 — Technology patent pending (Tencent Quantum Lab)**  
+  *Publish–subscribe data distribution architecture for large-scale parallel experiments; client subscription to custom data hierarchies improving consistency and efficiency.*  
+
+---
+
+---
+
+## Research & Industry Experience
+
+### **Tencent Quantum Lab — Applied AI & Control Systems Intern**  
+*May – Sep 2025 · Shenzhen, China / Edinburgh (Hybrid)*  
+- Designed a **publish–subscribe data distribution architecture** enabling hierarchical client subscriptions for consistent multi-device data sync. *(Technology patent pending)*  
+- Refactored **LabRAD** interfaces, replacing recursive calls with **batch-processing algorithms**, achieving **220× speedup** (14m40s → 4s) in large registry operations.  
+- Built an **automated confocal microscopy pipeline** (data validation → conversion → CVM upload → PostgreSQL update → WeChat Bot notification).  
+- Deployed in production within **Tencent Quantum Lab**’s experimental infrastructure.  
+**Stack:** Python · Scala · PostgreSQL · LabRAD · Twisted · PyQt5 · Docker · REST
+
+---
+
+### **Institute of Computer Systems Architecture, University of Edinburgh — Research Intern**  
+*Jun – Aug 2024 · Edinburgh, UK*  
+- Reproduced and extended the **LineVul** vulnerability detection framework.  
+- Conducted **ablation studies** across multiple ML models (BoW, Random Forest, CNN) achieving **+15% F1-score improvement**.  
+- Used **Joern** for static analysis of multi-base-unit (MBU) vulnerabilities; identified code pattern bottlenecks and proposed mitigation strategies.  
+- Authored a technical report summarizing results and recommended dataset refinements.  
+**Stack:** Python · PyTorch · Joern · scikit-learn
+
+---
+
+## Honours Project — *Multi-Agent RL Environment for LLM-Agent Simulation*
+**Supervisor:** Dr. Wenda Zhou, University of Edinburgh (2025–26)**  
 
 A 2D **Minecraft-inspired environment** designed to study collaboration between RL and LLM-based agents.
 
@@ -29,29 +60,11 @@ A 2D **Minecraft-inspired environment** designed to study collaboration between 
 - Built modular environment and benchmarking suite with **Gymnasium + PyTorch + Pygame**.  
 - Investigating multi-agent curriculum design and emergent communication.  
 
-> 🧩 *Objective:* To bridge symbolic reasoning from LLMs and adaptive behaviour from RL agents.
+>  *Objective:* To bridge symbolic reasoning from LLMs and adaptive behaviour from RL agents.
 
 ---
 
-## 💼 Research & Industry Experience
-
-### **Tencent Quantum Lab**
-*Summer 2025 · Shenzhen, China*  
-
-Conducted applied research and system development at **Tencent Quantum Lab**, focusing on intelligent automation for experimental control.
-
-**Key Contributions:**
-- Designed a **cross-language control toolkit** integrating *Scala LabRAD servers* and *Python pylabrad clients* for distributed experiment orchestration.  
-- Refactored **Twisted-based callback system** to enable real-time communication between devices and registry nodes.  
-- Built a **PyQt5 graphical interface** for multi-server management, live parameter control, and automated logging.  
-- Achieved a **15,000% improvement** in registry I/O throughput across experiment nodes.  
-- Resulted in an **internal patent filing** and deployment within Tencent Quantum Lab infrastructure.  
-
-> **Patent:** *“Asynchronous Message Routing and State Synchronization for Multi-Agent Systems”*, filed 2025, Tencent Technology (Shenzhen).
-
----
-
-## ⚙️ Selected Engineering Projects
+## Selected Projects
 
 ### **IoT Human Activity Recognition (Edge-AI System)**
 *Course Project · IoT Systems & Data Science at Scale*  
@@ -61,45 +74,55 @@ Conducted applied research and system development at **Tencent Quantum Lab**, fo
 
 ---
 
-### **MeetingManager (Desktop Productivity App)**
-*Independent Project*  
-- PyQt5 + SQLite architecture for offline-first meeting organization and plugin-based task modules.  
-- Implemented export tools and automated report templates for research documentation.  
+### **Neural Machine Translation (NMT) System**
+*Course Project · Natural Language Processing (Feb–Mar 2025)*  
+- Implemented **Seq2Seq (GRU)** model with **Bahdanau attention** for English–German translation.  
+- Visualized alignment maps confirming effective attention focusing on relevant source tokens.  
 
 ---
 
-## 🧩 Technical Stack
-**Languages:** Python · Scala · C/C++ · SQL · JavaScript  
-**ML Frameworks:** PyTorch · TensorFlow · TFLite · scikit-learn  
-**Systems & Data:** Spark · Docker · GitHub Actions · SQLite/PostgreSQL  
-**Software Engineering:** PyQt5 · Flask/FastAPI · LabRAD · Twisted  
-**Domains:** Multi-Agent RL · LLM-Agents · Edge/TinyML · Scientific Software  
+### **Drone Delivery System**
+*Team Lead · Java REST API (Jan 2025)*  
+- Built a **RESTful backend** for order management and path planning with **no-fly zone** constraints.  
+- Added **GeoJSON** export for visualization and **Docker** packaging for deployment.
 
 ---
 
-## 📝 Research Papers & Technical Reports
-
-| Year | Title / Description | Type / Venue | Link |
-|------|---------------------|---------------|------|
-| 2025 | *Multi-Agent Reinforcement Learning Environment Design for LLM-Agent Simulation* | UG4 Honours Thesis (in progress) | – |
-| 2025 | *Asynchronous Message Routing and State Synchronization for Multi-Agent Systems* | Patent, Tencent Quantum Lab | – |
-| 2024 | *HAR on Edge Devices: Accuracy–Latency–Energy Trade-off* | Course Report | [PDF]() |
-| 2024 | *Latency vs Distance in Edge-AI Pipelines* | Short Technical Note | [PDF]() |
-| — | *(Future preprints and publications to be added)* | – | – |
+### **Mathematical Contest in Modeling (MCM)** — *Team Member*  
+*Feb 2024*  
+- Modeled *game momentum* using **LSTM** on 2019 Australian Open tennis data.  
+- Generalized framework to other two-player competitive settings.  
 
 ---
 
-## 📚 Coursework
-- **Programming for Data Science at Scale** — distributed dataflows & CI/CD automation  
-- **IoT Systems** — signal processing, edge inference deployment  
-- **Software Testing & Professional Practice** — IEEE testing frameworks and QA automation  
-- **Machine Learning** — applied ML algorithms and evaluation methodologies  
+### **Virtual Memory Simulation**
+*Team Lead · Course Project (Oct 2023)*  
+- Implemented **TLB + Page Table** simulation handling page faults and swapping.  
+- Achieved **147/150** final score; verified consistency with real OS behavior.  
 
 ---
+
+### **Data Analysis: Scotland Cancer & Injuries**
+*Team Project (Oct 2023)*  
+- Cleaned and visualized 2016 mortality/admissions data using **Matplotlib** and **Plotly**.  
+- Conducted demographic-level comparisons by region and age group.  
+
+---
+
+## Coursework (Selected)
+Machine Learning • Reasoning and Agents • Compiling Techniques • Computer Security • Mobile Robotics •  
+Natural Language Processing • System Design Project • Algorithms & Data Structures •  
+Discrete Mathematics & Probability • Computer Systems • Software Engineering
+
+---
+
+## Skills
+**Languages:** Python · Java · C · C++ · Scala · SQL  
+**Frameworks/Tools:** Spring Boot · REST · Docker · Git · PyQt5 · PostgreSQL  
+**Domains:** ML Systems · Scientific/Quantum Lab Software · Data Engineering · Evaluation & Benchmarking  
 
 ---
 
 ## 🔗 Contact
 [![GitHub](https://img.shields.io/badge/GitHub-LINEsakura-black?logo=github)](https://github.com/LINEsakura)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ricardo%20Zhang-blue?logo=linkedin)](https://linkedin.com/in/your-handle)
 [![Email](https://img.shields.io/badge/Email-ricardoshuoyu%40gmail.com-blue?logo=gmail)](mailto:ricardoshuoyu@gmail.com)
