@@ -7,6 +7,12 @@
 
 ---
 
+## Patents
+- **2025 — Technology patent pending (Tencent Quantum Lab)**  
+  *Publish–subscribe data distribution architecture for large-scale parallel experiments; client subscription to custom data hierarchies improving consistency and efficiency.*  
+
+---
+
 ## Publications (Papers)
 > *Preprints, reports, and technical notes.*
 
@@ -16,14 +22,6 @@
 | 2024 | *HAR on Edge Devices: Accuracy–Latency–Energy Trade-off* | Course Report | [PDF]() |
 | 2024 | *Latency vs Distance in Edge-AI Pipelines* | Short Technical Note | [PDF]() |
 | — | *(Future publications to be added)* | – | – |
-
----
-
-## Patents
-- **2025 — Technology patent pending (Tencent Quantum Lab)**  
-  *Publish–subscribe data distribution architecture for large-scale parallel experiments; client subscription to custom data hierarchies improving consistency and efficiency.*  
-
----
 
 ---
 
