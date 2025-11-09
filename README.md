@@ -19,7 +19,7 @@
 ---
 
 ## 🎓 Honours Project — *Multi-Agent RL Environment for LLM-Agent Simulation*
-**Supervisor:** Dr. Wenda Zhou, University of Edinburgh (2025–26)  
+**Supervisor:** Dr. Wenda Li, University of Edinburgh (2025–26)  
 
 A 2D **Minecraft-inspired environment** designed to study collaboration between RL and LLM-based agents.
 
@@ -35,7 +35,7 @@ A 2D **Minecraft-inspired environment** designed to study collaboration between 
 
 ## 💼 Research & Industry Experience
 
-### **Tencent Quantum Lab (Applied AI & Control Systems Intern)**
+### **Tencent Quantum Lab**
 *Summer 2025 · Shenzhen, China*  
 
 Conducted applied research and system development at **Tencent Quantum Lab**, focusing on intelligent automation for experimental control.
