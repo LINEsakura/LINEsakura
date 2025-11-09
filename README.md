@@ -2,7 +2,7 @@
 
 🎓 UG4 BSc (Hons) Informatics @ **University of Edinburgh**  
 💡 Focus: Multi-Agent Reinforcement Learning · LLM-Agent Systems · ML Infrastructure · Edge/TinyML  
-📍 Edinburgh, UK | ✉️ ricardoshuoyu@gmail.com | [GitHub](https://github.com/LINEsakura) | [LinkedIn](https://linkedin.com/in/your-handle)
+📍 Edinburgh, UK | ✉️ ricardoshuoyu@gmail.com | [GitHub](https://github.com/LINEsakura) | [LinkedIn]([https://www.linkedin.com/in/shuoyu-zhang-ricardo/])
 
 ---
 
