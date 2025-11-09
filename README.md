@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Ricardo Zhang (Yunru Cen)**  
+# 👋 Hi, I'm **Ricardo (Shuoyu Zhang)**  
 
 🎓 UG4 BSc (Hons) Informatics @ University of Edinburgh  
 💡 Focus: Multi-Agent Reinforcement Learning • LLM-Agent Systems • ML Infrastructure • Edge/TinyML  
