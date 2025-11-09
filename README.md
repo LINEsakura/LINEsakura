@@ -97,10 +97,6 @@ Conducted applied research and system development at **Tencent Quantum Lab**, fo
 
 ---
 
-## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=LINEsakura&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LINEsakura&layout=compact&theme=transparent)
-
 ---
 
 ## 🔗 Contact
