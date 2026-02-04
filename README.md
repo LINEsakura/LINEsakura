@@ -13,18 +13,6 @@
 
 ---
 
-## Publications (Papers)
-> *Preprints, reports, and technical notes.*
-
-| Year | Title | Venue / Type | Link |
-|------|-------|---------------|------|
-| 2025 | *Multi-Agent Reinforcement Learning Environment Design for LLM-Agent Simulation* | UG4 Thesis (in progress) | – |
-| 2024 | *HAR on Edge Devices: Accuracy–Latency–Energy Trade-off* | Course Report | [PDF]() |
-| 2024 | *Latency vs Distance in Edge-AI Pipelines* | Short Technical Note | [PDF]() |
-| — | *(Future publications to be added)* | – | – |
-
----
-
 ## Research & Industry Experience
 
 ### **Tencent Quantum Lab — Applied AI & Control Systems Intern**  
